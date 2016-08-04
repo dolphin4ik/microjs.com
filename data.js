@@ -4388,7 +4388,7 @@ module.exports = [
   {
      name: "randr",
      github: "dolphin4ik/randr",
-     tags: ["randr","json","html","DOM","render","template"],
+     tags: ["randr","json","html","DOM","render","template","templates"],
      description: "html DOM from json",
      url: "https://github.com/dolphin4ik/randr",
      source: "https://raw.githubusercontent.com/dolphin4ik/randr/master/randr.js"
